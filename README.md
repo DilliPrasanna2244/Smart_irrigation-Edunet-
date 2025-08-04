@@ -13,7 +13,7 @@ This project automates irrigation using machine learning, soil moisture sensors,
 
 ## 💧 System Architecture
 
-![Irrigation System Flowchart](assets/flow-diagram.png)
+<img src="assets/flow-diagram-of-the-irrigation-system copy.png" alt="Smart Irrigation Flowchart" width="700"/>
 
 ---
 
